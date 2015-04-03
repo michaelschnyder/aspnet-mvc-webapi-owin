@@ -1,7 +1,8 @@
 # ASP.NET MVC Web API OWIN Sample
 
-This sample solution shows how to integrated a Web API project into an existing ASP.NET MVC Application.
-The solution is splitted into multiple projects to show this concept.
+This sample solution shows how to integrated a Web API project into an existing ASP.NET MVC Application by using the OWIN-Pipeline. For details to OWIN, see: http://owin.org/
+
+The solution is splitted into multiple projects to show this concept, configuration and related NuGet Packages
 
 ## MyProject.Web.Api
 This is an almost empty Web API Project with one simple controller under `api/status`
