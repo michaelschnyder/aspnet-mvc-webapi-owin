@@ -11,8 +11,8 @@ This is an almost empty Web API Project with one simple controller under `api/st
 A selfhost application (based on OWIN and HttpListener) to host the Web API in a console application
 
 ## MyProject.Web.WebHost
-Similar to the Project "MyProject.Web.WebHost" but hosted inside a ASP.NET Application. 
-This shows the minimal setup to host a OWIN-based coponent (ASP.NET Web API in this case) in IIS-
+Similar to the Project "MyProject.Web.SelfHost" but hosted inside a ASP.NET Application. 
+This shows the minimal setup to host a OWIN-based coponent (ASP.NET Web API in this case) in IIS
 
 ## MyProject.Web.WebApp
 This is the combined MVC and Web API Project, together hosted in a single ASP.NET Application in IIS or IIS Express
