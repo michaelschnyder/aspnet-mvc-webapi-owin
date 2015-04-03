@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Web.Api", "MyProject.Web.Api\MyProject.Web.Api.csproj", "{01F82734-C0B9-4230-A5AE-30BC2976A19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Web.WebHost", "MyProject.Web.WebHost\MyProject.Web.WebHost.csproj", "{DBD7ECA6-220F-42CE-8A6A-12B1236C24B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Web.WebApp", "MyProject.Web.WebApp\MyProject.Web.WebApp.csproj", "{071C29F7-949C-47A1-952D-00B17683C890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Web.SelfHost", "MyProject.Web.SelfHost\MyProject.Web.SelfHost.csproj", "{DE101B45-2503-4793-9F09-9F78635F5B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F82734-C0B9-4230-A5AE-30BC2976A19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F82734-C0B9-4230-A5AE-30BC2976A19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F82734-C0B9-4230-A5AE-30BC2976A19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F82734-C0B9-4230-A5AE-30BC2976A19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD7ECA6-220F-42CE-8A6A-12B1236C24B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD7ECA6-220F-42CE-8A6A-12B1236C24B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD7ECA6-220F-42CE-8A6A-12B1236C24B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD7ECA6-220F-42CE-8A6A-12B1236C24B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071C29F7-949C-47A1-952D-00B17683C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071C29F7-949C-47A1-952D-00B17683C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071C29F7-949C-47A1-952D-00B17683C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071C29F7-949C-47A1-952D-00B17683C890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE101B45-2503-4793-9F09-9F78635F5B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE101B45-2503-4793-9F09-9F78635F5B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE101B45-2503-4793-9F09-9F78635F5B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE101B45-2503-4793-9F09-9F78635F5B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
